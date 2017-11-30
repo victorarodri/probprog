@@ -91,6 +91,6 @@ ENV/
 requirements.in
 
 # edward/tensorflow log directories
-models/log
-models/log_e
-models/log_m
+notebooks/log
+notebooks/log_e
+notebooks/log_m
