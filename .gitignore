@@ -96,4 +96,7 @@ notebooks/log
 notebooks/log_e
 notebooks/log_m
 
+# MIMIC data files (data use aggreement prevents sharing)
+data/corpora/
+
 requirements.in
