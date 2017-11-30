@@ -99,4 +99,7 @@ notebooks/log_m
 # MIMIC data files (data use aggreement prevents sharing)
 data/corpora/
 
+# Emacs tmp files
+\#*\#
+
 requirements.in
