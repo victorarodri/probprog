@@ -1,11 +1,40 @@
+Nitroglycerin SL
+Lorazepam
+Magnesium Sulfate
+Potassium Chloride
+Ketorolac
+Sucralfate
+Vancomycin HCl
+Iso-Osmotic Dextrose
+Acetaminophen
 Oxycodone-Acetaminophen
+Metoclopramide
 Atorvastatin
+Aspirin EC
+Metoprolol
+Pantoprazole
+Midazolam HCl
+D5W
 Morphine Sulfate
 Meperidine
 Nitroprusside Sodium
+Heparin Sodium
+Nitroglycerin
+SW
+Docusate Sodium
+Neostigmine
+Glycopyrrolate
+Propofol (Generic)
+Calcium Gluconate
 Phenylephrine HCl
 Docusate Sodium (Liquid)
+Ranitidine
+Aspirin
 Insulin
+Sodium Bicarbonate
+Atropine Sulfate
+Furosemide
+Zolpidem Tartrate
 Cefazolin
 NS
 Milk of Magnesia
@@ -13,5 +42,18 @@ Bisacodyl
 Syringe
 LR
 Sodium Chloride 0.9%  Flush
+Soln.
 Insulin Human Regular
 Propofol
+Humulin-R Insulin
+Lisinopril
+Levothyroxine Sodium
+Dextrose 50%
+Heparin
+Atenolol
+Senna
+Simvastatin
+Vial
+Norepinephrine
+no_data_available
+Clopidogrel Bisulfate
