@@ -89,3 +89,8 @@ ENV/
 .ropeproject
 
 requirements.in
+
+# edward/tensorflow log directories
+models/log
+models/log_e
+models/log_m
