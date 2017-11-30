@@ -1,0 +1,14 @@
+Calcium, Total
+Phosphate
+SPECIMEN TYPE
+Base Excess
+Calculated Total CO2
+Free Calcium
+Hematocrit, Calculated
+Intubated
+pCO2
+pO2
+Potassium, Whole Blood
+Sodium, Whole Blood
+Ventilator
+Oxygen Saturation
