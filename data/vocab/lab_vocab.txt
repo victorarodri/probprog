@@ -1,56 +1,5 @@
-Alanine Aminotransferase (ALT)
-Albumin
-Alkaline Phosphatase
-Amylase
-Anion Gap
-Asparate Aminotransferase (AST)
-Bicarbonate
-Bilirubin, Total
 Calcium, Total
-Chloride
-Creatine Kinase (CK)
-Creatine Kinase, MB Isoenzyme
-Creatinine
-Lactate Dehydrogenase (LD)
-Lipase
-Magnesium
 Phosphate
-Potassium
-Sodium
-Troponin T
-Urea Nitrogen
-INR(PT)
-MCH
-MCHC
-MCV
-Platelet Count
-PT
-PTT
-RDW
-Red Blood Cells
-White Blood Cells
-Bacteria
-Bilirubin
-Blood
-Epithelial Cells
-Ketone
-Leukocytes
-Nitrite
-pH
-Protein
-RBC
-Specific Gravity
-Urine Appearance
-Urine Color
-Urobilinogen
-WBC
-Yeast
-Cholesterol Ratio (Total/HDL)
-Cholesterol, HDL
-Cholesterol, LDL, Calculated
-Cholesterol, Total
-Thyroid Stimulating Hormone
-Triglycerides
 SPECIMEN TYPE
 Base Excess
 Calculated Total CO2
@@ -62,25 +11,4 @@ pO2
 Potassium, Whole Blood
 Sodium, Whole Blood
 Ventilator
-Alveolar-arterial Gradient
-Oxygen
-Required O2
-Tidal Volume
-Ventilation Rate
 Oxygen Saturation
-O2 Flow
-Fibrinogen, Functional
-Platelet Smear
-% Hemoglobin A1c
-Basophils
-Eosinophils
-Lymphocytes
-Monocytes
-Neutrophils
-Length of Urine Collection
-Lactate
-Temperature
-Absolute A1c
-Absolute Hemoglobin
-PEEP
-Blue Top Hold

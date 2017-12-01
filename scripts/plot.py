@@ -57,8 +57,18 @@ def gen_wordcloud(tokens, probs):
 
 def gen_colormeshes(probs, colormaps):
 
+    print(probs)
+
+
+
+
+
+
+
+
+    
     for s in range(len(colormaps)):
-        plt.pcolormesh(np.log(probs[s].params[-1].eval()), cmap=colormaps[s])
+        plt.pcolormesh(np.log(probs[s]), cmap=colormaps[s])
         plt.tick_params(labelsize='large')
         plt.xlabel('Token ID')
         plt.ylabel('Phenotype ID')
