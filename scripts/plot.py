@@ -57,16 +57,6 @@ def gen_wordcloud(tokens, probs):
 
 def gen_colormeshes(probs, colormaps):
 
-    print(probs)
-
-
-
-
-
-
-
-
-    
     for s in range(len(colormaps)):
         plt.pcolormesh(np.log(probs[s]), cmap=colormaps[s])
         plt.tick_params(labelsize='large')
